@@ -31,11 +31,21 @@ to have previously installed the appropriate version of
 need to have installed
 [Xcode](https://apps.apple.com/us/app/xcode/id497799835).
 
-## Maintainer
+## Authors
 
-[Ruben Fernandez-Casal](https://rubenfcasal.github.io) (Dep.
-Mathematics, University of A Coruña, Spain). Please send comments, error
-reports or suggestions to <rubenfcasal@gmail.com>.
+- Daniel Barreiro-Ures (<daniel.barreiro.ures@udc.es>)
+
+- Ruben Fernandez-Casal (<rubenfcasal@gmail.com>)
+
+- Jeffrey Hart
+
+- Ricardo Cao
+
+- Mario Francisco-Fernandez
+
+**Maintainer**: [Ruben Fernandez-Casal](https://rubenfcasal.github.io)
+(Dep. Mathematics, University of A Coruña, Spain). Please send comments,
+error reports or suggestions to <rubenfcasal@gmail.com>.
 
 ## References
 
