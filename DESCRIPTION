@@ -12,7 +12,7 @@ Authors@R: c(person("Daniel", "Barreiro-Ures", email="daniel.barreiro.ures@udc.e
 Description: Bagging bandwidth selection methods for the Parzen-Rosenblatt and Nadaraya-Watson estimators. These 
   bandwidth selectors can achieve greater statistical precision than their non-bagged counterparts while being 
     computationally fast. See Barreiro-Ures et al. (2020) <doi:10.1093/biomet/asaa092> and 
-  Barreiro-Ures et al. (2021) <arXiv:2105.04134>.
+  Barreiro-Ures et al. (2021) <doi:10.48550/arXiv.2105.04134>.
 License: GPL-3
 URL: https://rubenfcasal.github.io/baggingbwsel/, https://github.com/rubenfcasal/baggingbwsel/
 BugReports: https://github.com/rubenfcasal/baggingbwsel/issues/

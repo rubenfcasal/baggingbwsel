@@ -24,7 +24,7 @@
 #' Barreiro-Ures, D., Cao, R., & Francisco-Fernández, M. (2021b).  
 #' Bagging cross-validated bandwidth selection in nonparametric regression 
 #' estimation with applications to large-sized samples.
-#' \emph{arXiv preprint}, \url{https://arxiv.org/abs/2105.04134}.
+#' \emph{arXiv preprint}, \doi{10.48550/arXiv.2105.04134}.
 "_PACKAGE"
 
 
