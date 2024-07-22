@@ -1,3 +1,4 @@
+#' @keywords internal
 plot.smooth1 <- function(panel) {
    if (panel$method == "manual") panel$h <- panel$h.manual
    panel$opt$se   <- panel$se
@@ -85,6 +86,7 @@ rp.smooth1 <- function(x, y, h, design.mat, model, weights, rawdata, opt) {
    }
 
 
+#' @keywords internal
 plot.smooth2 <- function(panel) {
 	
    if (panel$method != panel$method.old) {
@@ -229,6 +231,7 @@ rp.smooth2 <- function(x, y, h, model, weights, rawdata, opt) {
 
 #     Density estimation
 
+#' @keywords internal
 plot.density1 <- function(panel) {
    if (panel$method == "manual") panel$h <- panel$h.manual
    panel$opt$se   <- panel$se
@@ -302,7 +305,7 @@ rp.density1 <- function(x, h, model, weights, rawdata, opt) {
    invisible(smooth.panel)
    }
 
-
+#' @keywords internal
 plot.density2 <- function(panel) {
 
    if (panel$method != panel$method.old) {
@@ -417,7 +420,7 @@ rp.density2 <- function(x, h, model, weights, rawdata, opt) {
    invisible(smooth.panel)
    }
 
-
+#' @keywords internal
 plot.density3 <- function(panel) {
    if (panel$method != panel$method.old) {
       if (panel$method != "manual") {

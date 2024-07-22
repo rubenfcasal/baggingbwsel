@@ -19,7 +19,8 @@ BugReports: https://github.com/rubenfcasal/baggingbwsel/issues/
 Encoding: UTF-8
 Depends: mclust, foreach
 Imports: Rcpp (>= 1.0.3), parallel, doParallel, kedd, stats, sm,
-        nor1mix, rgl, rpanel, misc3d
+        nor1mix, misc3d
+Suggests: rgl, tkrplot, rpanel
 LinkingTo: Rcpp
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
