@@ -5,7 +5,7 @@ Title: Bagging Bandwidth Selection
 Version: 1.1
 Date: 2024-07-22
 Authors@R: c(person("Daniel", "Barreiro-Ures", email="daniel.barreiro.ures@udc.es", role="aut"),
-  person("Ruben", "Fernandez-Casal", email="rubefcasal@gmail.com", role=c("aut","cre")),
+  person("Ruben", "Fernandez-Casal", email="rubenfcasal@gmail.com", role=c("aut","cre")),
   person("Jeffrey", "Hart", role="aut"),
   person("Ricardo", "Cao", role="aut"),
   person("Mario", "Francisco-Fernandez", role="aut"))

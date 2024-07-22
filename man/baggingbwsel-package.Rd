@@ -34,7 +34,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Ruben Fernandez-Casal \email{rubefcasal@gmail.com}
+\strong{Maintainer}: Ruben Fernandez-Casal \email{rubenfcasal@gmail.com}
 
 Authors:
 \itemize{
