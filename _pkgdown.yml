@@ -1,0 +1,16 @@
+url: http://rubenfcasal.github.io/baggingbwsel
+
+template:
+  bootstrap: 5
+  params:
+    bootswatch: cerulean
+    
+authors:
+  Ruben Fernandez-Casal:
+    href: https://rubenfcasal.github.io 
+    
+news:
+  cran_dates: false
+  
+deploy:
+  install_metadata: true
