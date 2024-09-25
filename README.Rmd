@@ -32,7 +32,12 @@ if ('github_document' == rmarkdown::all_output_formats(knitr::current_input()) &
 Installation
 ------------
 
-`baggingbwsel` is not yet available from CRAN, but you can install the development version from github with:
+You can install the (compiled) released version from CRAN with:
+```{r cran, eval=FALSE}
+install.packages("baggingbwsel")
+```
+
+Alternatively, you can install the development version from github with:
 
 ```{r install, eval=FALSE}
 # install.packages("remotes")

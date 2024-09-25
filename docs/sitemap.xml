@@ -1,14 +1,39 @@
-<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/404.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/authors.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/index.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/bagcv.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/baggingbwsel-package.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/bagreg.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/hboot_bag.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/hsss_dens.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/index.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/mopt.html</loc></url>
-<url><loc>https://rubenfcasal.github.io/baggingbwsel/reference/tss_dens.html</loc></url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/404.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/index.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/bagcv.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/baggingbwsel-package.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/baggingbwsel.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/bagreg.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/hboot_bag.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/hsss_dens.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/mopt.html</loc>
+  </url>
+  <url>
+    <loc>https://rubenfcasal.github.io/baggingbwsel/reference/tss_dens.html</loc>
+  </url>
 </urlset>
-

@@ -17,8 +17,13 @@ Barreiro-Ures et al. (2021a) and Barreiro-Ures et al. (2021b).
 
 ## Installation
 
-`baggingbwsel` is not yet available from CRAN, but you can install the
-development version from github with:
+You can install the (compiled) released version from CRAN with:
+
+``` r
+install.packages("baggingbwsel")
+```
+
+Alternatively, you can install the development version from github with:
 
 ``` r
 # install.packages("remotes")
